@@ -1,0 +1,32 @@
+
+
+.cabecera{
+	background: #38A3A6;
+	font-size: 200%;
+	color: white;
+	height: 70px;
+	padding-top: 15px;
+	padding-left: 45px;
+}
+
+.pie{
+	background: #9A9A9A;
+	color: white;
+	text-align: center;
+	margin: 0 auto;
+	margin-top: 120px;
+	height: 30px;
+	padding-top: 5px;
+}
+
+.cuerpo{
+	margin: 0 auto;
+	font-size: 200%;
+	color: white;
+	text-align: center;
+	height: 900px;
+	margin-top: 0px;
+    text-transform: capitalize;
+    
+ 
+}
